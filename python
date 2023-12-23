@@ -1,0 +1,19 @@
+"Feliz ano novo e boas festa"
+
+n1= int(input('Digite o ano que você irá alcançar seus objetivos: '))
+resultado= n1
+
+sucessor= resultado + 1
+antecessor= resultado -1
+
+print(f'O número digitado é {resultado}.')
+
+print(f'Você vai colher muitos frutos em {sucessor}, no ano anterior você semeou, plantou e regou com choro {antecessor}, tudo está escrito no memorial de Deus.')
+
+Python 3.12.1 (tags/v3.12.1:2305ca5, Dec 7 2023, 22:03:25)
+
+Digite o ano que você irá alcançar seus objetivos: 2024
+
+O número digitado é 2024.
+
+Você vai colher muitos frutos em 2025, no ano anterior você semeou, plantou e regou com choro em 2023, tudo está escrito no memorial de Deus, acredite e tenha Fé.
